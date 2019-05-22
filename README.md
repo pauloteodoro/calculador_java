@@ -5,7 +5,7 @@
 
 ### Calculadora para funçoes basicas:
 
-#### [] Adição.
-#### [] Subtração.
-#### [] Multiplicação.
-#### [] Divisão.
+#### * Adição.
+#### * Subtração.
+#### * Multiplicação.
+#### * Divisão.
